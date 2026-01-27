@@ -1,0 +1,21 @@
+Question -> Why react was created ?
+
+Answer --> Facebook has a phantom message problem.
+
+There is no sync between state of javascript and 
+UI DOM .
+
+
+
+Question -> library vs framework ?
+
+Answer -> 
+
+library -->  library has a freedom and have less concept than frameworks.
+
+framework --> framework contains strict rules like django , next.javascript .
+
+   ------------------*************-------------------
+React make single page application, 
+
+ 
