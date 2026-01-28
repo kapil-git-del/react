@@ -19,3 +19,10 @@ framework --> framework contains strict rules like django , next.javascript .
 React make single page application, 
 
  
+
+ react dom    ------> used on web 
+
+ react native ------> used in mobile
+
+ 
+     
