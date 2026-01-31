@@ -38,9 +38,9 @@ const reactElement = React.createElement(
 ReactDOM.createRoot(document.getElementById('root')).render(
   // <React.StrictMode>
     // <App />
-    // <MyApp/>
+    <MyApp/>
     // anotherElement
-    reactElement
+    // reactElement
     // MyApp() 
   // </React.StrictMode>,
 )
